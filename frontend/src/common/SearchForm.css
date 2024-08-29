@@ -1,0 +1,6 @@
+
+.SearchForm input:focus {
+  box-shadow: none;
+  outline: 1px solid #ced4da;
+  border-color: #ced4da;
+}
